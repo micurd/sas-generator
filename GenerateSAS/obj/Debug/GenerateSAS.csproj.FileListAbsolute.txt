@@ -1,0 +1,6 @@
+c:\users\micurd\documents\visual studio 2015\Projects\GenerateSAS\GenerateSAS\bin\Debug\GenerateSAS.exe.config
+c:\users\micurd\documents\visual studio 2015\Projects\GenerateSAS\GenerateSAS\bin\Debug\GenerateSAS.exe
+c:\users\micurd\documents\visual studio 2015\Projects\GenerateSAS\GenerateSAS\bin\Debug\GenerateSAS.pdb
+c:\users\micurd\documents\visual studio 2015\Projects\GenerateSAS\GenerateSAS\obj\Debug\GenerateSAS.csprojResolveAssemblyReference.cache
+c:\users\micurd\documents\visual studio 2015\Projects\GenerateSAS\GenerateSAS\obj\Debug\GenerateSAS.exe
+c:\users\micurd\documents\visual studio 2015\Projects\GenerateSAS\GenerateSAS\obj\Debug\GenerateSAS.pdb
